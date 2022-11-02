@@ -1,0 +1,7 @@
+@import url(fonts.css);
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+/*å„å¤§è§†é¢‘ç½‘ç«™å¯¼èˆªæ ·å¼*/
+.unit-100 { width: 100%; } .language { text-align: center; margin: 0 auto; position: relative; padding-top: 10px; }.language img{border-radius: 3px; margin-bottom: 10px; } .btn2 { display: inline-block; vertical-align: top; font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; font-size: 14px; line-height: 1; text-align: center; text-decoration: none; color: #48b9f3; margin: 5px; border: none; border-radius: 3px; box-shadow: none; cursor: pointer; background: #eeeded; padding: 20px 20px; height: 2.3em; } .btn2:link { color: #FFFFFF; background: #48b9f3; } .btn2:visited { color: #FFFFFF; background: #48b9f3; } .btn2:hover { color: #48b9f3; background: #FFFFFF; } .btn2:active { color: #FFFFFF; background: #48b9f3; } .btn-outline2 { background: none; border: 3px solid #48b9f3; *height: 15px; *height: _15px; padding: 5px; }.tit { margin: 0 auto; padding: 4px; font-size: 24px; text-align: center; }
